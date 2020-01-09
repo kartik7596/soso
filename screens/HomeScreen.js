@@ -47,7 +47,7 @@ export default function HomeScreen() {
         <View style={styles.helpContainer}>
           <TouchableOpacity onPress={handleHelpPress} style={styles.helpLink}>
             <Text style={styles.helpLinkText}>
-              knock knock tera baap aaya!!!
+              Help, it didn’t automatically reload!
             </Text>
           </TouchableOpacity>
         </View>
